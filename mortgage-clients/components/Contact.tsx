@@ -50,7 +50,7 @@ export const Contact: React.FC = () => {
            />
            <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
               <div className="bg-white p-4 shadow-xl">
-                 <p className="text-secondary font-bold text-xs uppercase tracking-widest text-center">Patriot Home<br/>Mortgage</p>
+                 <p className="text-secondary font-bold text-xs uppercase tracking-widest text-center">Intercap<br/>Lending</p>
               </div>
            </div>
         </div>
