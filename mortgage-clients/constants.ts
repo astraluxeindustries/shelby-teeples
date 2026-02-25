@@ -1,20 +1,24 @@
 import { Review, NavLink, ServiceItem } from './types';
 
 export const BUSINESS_INFO = {
-  name: "Desiree Contessa",
+  name: "Shelby Teeples",
   title: "Mortgage Consultant",
-  nmls: "2531460",
-  company: "Patriot Home Mortgage",
+  nmls: "1889596",
+  company: "Intercap Lending",
   companyNmls: "715386",
   address: "619 S Bluff St Tower 2 Suite 1B, St. George, UT 84770",
   phone: "(425) 876-3025",
-  email: "desiree.contessa@patriothomemortgage.com",
+  email: "shelby@intercaplending.com",
   hours: "Open 24 hours",
-  bio: `After working for other financial institutions, I really believe that Patriot Home Mortgage offers most comprehensive service with the best products, knowledge, and resources to its customers. Being the only locally owned Mortgage Bank in Southern Utah, Patriot Home Mortgage has always strived to be community focused.
+  bio: `Shelby Teeples is a dedicated Mortgage Loan Officer known for her clear communication, strategic guidance, and client-first approach. Licensed across multiple states, she brings versatility and a broad understanding of today’s lending landscape, helping clients confidently navigate everything from Conventional and Jumbo loans to VA, Investment, and first-time homebuyer programs.
 
-My goal is to provide all my clients excellent customer service, education, and mentoring in every step of their mortgage process. With over 20 years' experience working in banking & finance, being a mortgage loan originator is something she is truly excited about.
+Shelby believes that education is the foundation of a successful mortgage experience. She takes time to walk clients through their options, explain the numbers in plain terms, and design financing strategies that align with both short-term needs and long-term goals. Whether working with a first-time buyer or a seasoned investor, her focus remains the same: clarity, transparency, and results.
 
-Desiree received a bachelor's degree in business accounting and a minor in cultural studies from Central Washington University. "I look forward to making many great relationships throughout the greater Southern Utah and working through the complexities of today's Mortgage Banking environment."`,
+Her approach blends professionalism with genuine care. Clients consistently appreciate her responsiveness, attention to detail, and commitment to making the process feel smooth and manageable from application to closing. Shelby aims for every borrower she works with to feel supported, empowered, and confident in their decision.
+
+Outside of her professional life, Shelby is deeply rooted in family. She and her husband of 20 years are proud parents of four children. When she is not serving clients, she enjoys camping, hunting, fishing, CrossFit, and playing volleyball. That same energy and discipline she brings to her personal life carries into her work, where she approaches every transaction with focus and dedication.
+
+For Shelby, mortgage lending is not simply about financing homes. It is about helping families create opportunity, stability, and a place to build their future."`,
 };
 
 export const NAV_LINKS: NavLink[] = [
